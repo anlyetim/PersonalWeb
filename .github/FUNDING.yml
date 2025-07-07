@@ -1,3 +1,4 @@
-# These are supported funding model platforms
-
-patreon: codewithsadee # Replace with a single Patreon username
+sponsors:
+  - type: custom
+    url: https://www.patreon.com/codewithsadee
+    description: "Support the designer writing the base code"
